@@ -11,12 +11,12 @@ table, tr, td, th
 
 tr:nth-child(even)
 	{
-		background-color: #a8e6cf;
+		background-color:#C48793;
 	}
 
 tr:nth-child(odd)
 	{
-		background-color: #dcedc1;
+		background-color:#FFF1B5 ;
 	}
 th
 	{
@@ -30,7 +30,7 @@ tr:hover
 
 p
 	{
-		font-family: 'Great Vibes', cursive;
+		font-family: 'IM Fell Great Primer', cursive;
 	}
 
 
